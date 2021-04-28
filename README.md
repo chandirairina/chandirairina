@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on shifting my career into the data field
+- 🔭 I’m currently looking for an opportunity to shift my career into the data field
 - 🌱 I’m currently learning data science! :)
 - 📫 You can reach me via linkedin: https://www.linkedin.com/in/chandira-irina-b60b301aa/
 
