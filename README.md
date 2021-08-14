@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for an opportunity to shift my career into the data field
-- 🌱 I’m currently learning data analytics! :)
+- 🔭 I’m currently looking for an opportunity in the data analytics and visualization
+- 🌱 I’m a newbie in the data field! :)
 - 📫 You can reach me via <a href="https://www.linkedin.com/in/chandira-irina/"> Linkedin </a>
 
 <!--
